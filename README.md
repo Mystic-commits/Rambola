@@ -4,7 +4,6 @@ A Python-based online shopping platform with MySQL backend, featuring user authe
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Features ✨
 
